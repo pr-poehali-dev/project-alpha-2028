@@ -9,18 +9,18 @@ export function MiniAppResume() {
 
           <div className="space-y-4">
             <div className="border-l-[4px] border-[#FF2E63] pl-4">
-              <h4 className="text-xl font-bold">Ведущий креативный разработчик</h4>
-              <p className="text-gray-600 font-medium">Stellar Analytics - 2022 - настоящее время</p>
+              <h4 className="text-xl font-bold">Ведущий инженер</h4>
+              <p className="text-gray-600 font-medium">TechSystems - 2022 - настоящее время</p>
               <p className="mt-2">
-                Руковожу разработкой инновационных веб-продуктов на React, TypeScript и современных дизайн-системах.
+                Руковожу разработкой сложных технических систем, оптимизирую производственные процессы и внедряю инновационные решения.
               </p>
             </div>
 
             <div className="border-l-[4px] border-[#FF2E63] pl-4">
-              <h4 className="text-xl font-bold">Full Stack разработчик</h4>
-              <p className="text-gray-600 font-medium">Nova Industries - 2020 - 2022</p>
+              <h4 className="text-xl font-bold">Инженер-проектировщик</h4>
+              <p className="text-gray-600 font-medium">Industrial Solutions - 2020 - 2022</p>
               <p className="mt-2">
-                Создавал масштабируемые веб-приложения от концепта до деплоя, работая со всем технологическим стеком.
+                Разрабатывал технические решения от концепции до реализации, работал с CAD-системами и автоматизацией.
               </p>
             </div>
           </div>
@@ -31,15 +31,15 @@ export function MiniAppResume() {
 
           <div className="grid gap-4">
             <div className="p-4 bg-gray-50 border-[2px] border-black">
-              <h4 className="text-lg font-bold">AI-инструмент для дизайна</h4>
-              <p className="text-sm text-gray-600 mb-2">React, Python, OpenAI API</p>
-              <p>Интеллектуальный помощник для генерации и итерации креативных концептов.</p>
+              <h4 className="text-lg font-bold">Система автоматизации производства</h4>
+              <p className="text-sm text-gray-600 mb-2">Python, PLC, IoT sensors</p>
+              <p>Разработка системы мониторинга и управления производственными линиями с повышением эффективности на 40%.</p>
             </div>
 
             <div className="p-4 bg-gray-50 border-[2px] border-black">
-              <h4 className="text-lg font-bold">Платформа совместной работы</h4>
-              <p className="text-sm text-gray-600 mb-2">Next.js, WebSockets, PostgreSQL</p>
-              <p>Платформа для бесшовной совместной работы распределенных команд в реальном времени.</p>
+              <h4 className="text-lg font-bold">Оптимизация теплообменников</h4>
+              <p className="text-sm text-gray-600 mb-2">CAD, CFD analysis, MATLAB</p>
+              <p>Редизайн системы охлаждения с улучшением эффективности теплообмена и снижением энергопотребления.</p>
             </div>
           </div>
         </div>
